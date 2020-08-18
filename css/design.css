@@ -26,10 +26,12 @@ body{
     display: flex;
     align-items: center;
 }
-.main-options{
-    display: flex;
-    justify-content: space-evenly;
-}
 .main-options-container{
+    display: flex;
+    justify-content: center;
+}
+.main-options-container-text{
+    width: 200px;
     border-bottom: 2px solid #d6d6d6;
+    text-align: center;
 }
